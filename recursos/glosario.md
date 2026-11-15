@@ -6,3 +6,4 @@ Glosario
 - Git: sistema de control de versiones.
 - JavaScript: lenguaje de programacion de la web.
 -Frontend: parte de una web que ve el usuario.
+-Frontend: parte de una web que ve el usuario.

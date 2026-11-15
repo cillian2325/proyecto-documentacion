@@ -5,6 +5,7 @@ Documentacion tecnica sobre desarrollo web: frontend y backend.
 Repositorio para practicar Git y GitHub: ramas, merges y conflictos.
 
 Autor: Cillian Daniel Mccarthy
+
 Fecha: 14/11/2026
 
 Tabla de contenidos
@@ -21,6 +22,7 @@ Tabla de contenidos
 - [Bases de datos](backend/bases-de-datos.md)
 - [APIs REST](backend/apis-rest.md)
 - [Seguridad](backend/seguridad.md)
+- [Glosario](recursos/glosario.md)
 
 Contribuciones
 --------------

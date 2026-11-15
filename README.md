@@ -17,3 +17,8 @@ Tabla de contenidos
 - [CSS avanzado](frontend/css-avanzado.md)
 - [JavaScript moderno](frontend/javascript-moderno.md)
 - [Frameworks](frontend/frameworks.md)
+
+Contribuciones
+--------------
+
+Las contribuciones son bienvenidas. Crea una rama y envia tus cambios.

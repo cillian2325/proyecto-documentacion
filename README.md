@@ -13,3 +13,7 @@ Tabla de contenidos
 - [Que es el desarrollo web](introduccion/que-es-desarrollo-web.md)
 - [Historia](introduccion/historia.md)
 - [Tecnologias actuales](introduccion/tecnologias-actuales.md)
+- [HTML basico](frontend/html-basico.md)
+- [CSS avanzado](frontend/css-avanzado.md)
+- [JavaScript moderno](frontend/javascript-moderno.md)
+- [Frameworks](frontend/frameworks.md)

@@ -7,3 +7,4 @@ Glosario
 - JavaScript: lenguaje de programacion de la web.
 -Frontend: parte de una web que ve el usuario.
 -Frontend: parte de una web que ve el usuario.
+-Backend: parte de una web que funciona en el servidor.

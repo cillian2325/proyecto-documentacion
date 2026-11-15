@@ -8,3 +8,4 @@ Glosario
 -Frontend: parte de una web que ve el usuario.
 -Frontend: parte de una web que ve el usuario.
 -Backend: parte de una web que funciona en el servidor.
+- Framework: conjunto de herramientas para programar mas rapido.

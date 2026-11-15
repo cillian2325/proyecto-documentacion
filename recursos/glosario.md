@@ -4,3 +4,4 @@ Glosario
 - CSS: lenguaje de estilos.
 - API: interfaz para comunicar programas.
 - Git: sistema de control de versiones.
+- JavaScript: lenguaje de programacion de la web.
